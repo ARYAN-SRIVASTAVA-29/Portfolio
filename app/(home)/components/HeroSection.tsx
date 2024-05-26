@@ -43,9 +43,11 @@ export default function HeroSection() {
             </div>
 
 <div className='absolute bottom-5 sm:bottom-14 left-0 sm:-left-10'>
+<a href="https://drive.google.com/file/d/1i0RuDTylM234jsTCmv9pfCbylqn2m9KM/view" target="_blank" rel="noopener noreferrer">
         <MovingBorderBtn borderRadius='0.5rem' className='p-3 font-semibold'>
             <p>🖹 View Resume</p>    
         </MovingBorderBtn> 
+        </a>
 </div>    
 
         </div>

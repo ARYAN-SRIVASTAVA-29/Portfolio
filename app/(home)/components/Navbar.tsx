@@ -7,17 +7,17 @@ export default function Navbar({className}:{className?:string}) {
 
     const socials = [
         {
-            Link: "https://www.linkedin.com.in/checbjjsd",
+            Link: "https://www.linkedin.com/in/aryan-srivastava-610b84225/",
             label: "Linkedin",
             Icon: SiLinkedin,
         },
         {
-            Link: "https://www.linkedin.com.in/checbjjsd",
+            Link: "https://github.com/ARYAN-SRIVASTAVA-29",
             label: "GitHub",
             Icon: SiGithub,
         },
         {
-            Link: "https://www.linkedin.com.in/checbjjsd",
+            Link: "https://x.com/aryan60238",
             label: "X",
             Icon: SiX,
         }
