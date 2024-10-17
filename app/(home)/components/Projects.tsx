@@ -106,7 +106,7 @@ export default function Projects() {
       </div>
 
       <div className="flex justify-center mt-10">
-      <a href="https://drive.google.com/file/d/1i0RuDTylM234jsTCmv9pfCbylqn2m9KM/view" target="_blank" rel="noopener noreferrer">
+      <a href="https://drive.google.com/file/d/1IkR5C8DcYn8zVoRFh6B_LeAC__Kakalm/view" target="_blank" rel="noopener noreferrer">
       <MovingBorderBtn borderRadius='0.5rem' className='p-3 font-semibold'>
             <p>🖹 View Resume</p>    
         </MovingBorderBtn> 
