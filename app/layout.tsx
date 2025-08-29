@@ -1,6 +1,7 @@
+import "./globals.css"
 import type React from "react"
 import { Sora, Inter, JetBrains_Mono } from "next/font/google"
-import "./globals.css"
+
 
 const sora = Sora({
   subsets: ["latin"],
